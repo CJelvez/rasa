@@ -3031,7 +3031,7 @@ dev = ["packaging"]
 
 [[package]]
 name = "tqdm"
-version = "4.59.0"
+version = "4.61.1"
 description = "Fast, Extensible Progress Meter"
 category = "main"
 optional = false
@@ -3304,7 +3304,7 @@ transformers = ["transformers"]
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.6,<3.9"
-content-hash = "ce58091847aff476d957e25cc6143cb940a9b5e8ce98cdd98e8a3998f326068f"
+content-hash = "aa1c11c56a3c8308516865f65e391c4bd25a8bd0eebcb77c36046d7ba352426a"
 
 [metadata.files]
 absl-py = [
@@ -5260,8 +5260,8 @@ towncrier = [
     {file = "towncrier-21.3.0.tar.gz", hash = "sha256:6eed0bc924d72c98c000cb8a64de3bd566e5cb0d11032b73fcccf8a8f956ddfe"},
 ]
 tqdm = [
-    {file = "tqdm-4.59.0-py2.py3-none-any.whl", hash = "sha256:9fdf349068d047d4cfbe24862c425883af1db29bcddf4b0eeb2524f6fbdb23c7"},
-    {file = "tqdm-4.59.0.tar.gz", hash = "sha256:d666ae29164da3e517fcf125e41d4fe96e5bb375cd87ff9763f6b38b5592fe33"},
+    {file = "tqdm-4.61.1-py2.py3-none-any.whl", hash = "sha256:aa0c29f03f298951ac6318f7c8ce584e48fa22ec26396e6411e43d038243bdb2"},
+    {file = "tqdm-4.61.1.tar.gz", hash = "sha256:24be966933e942be5f074c29755a95b315c69a91f839a29139bf26ffffe2d3fd"},
 ]
 transformers = [
     {file = "transformers-2.11.0-py3-none-any.whl", hash = "sha256:b3e5198266f2a4b14841c70427cad46b89f473e6b0d0d3ab7461bf775f31631d"},
