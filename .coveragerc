@@ -1,4 +1,4 @@
-[report]
+[report] opa
 exclude_lines =
     pragma: no cover
     def __repr__
